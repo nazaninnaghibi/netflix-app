@@ -1,4 +1,4 @@
-# Creating a NETFLIX Clone with REACT JS. Feel free to check the link for LIVE demo of the Netflix Clone App
+# Creating a NETFLIX Clone with REACT JS. Feel free to check the link for LIVE demo
 
 # https://suspicious-goldstine-721a73.netlify.app
 
